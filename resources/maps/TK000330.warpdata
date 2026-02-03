@@ -1,0 +1,52 @@
+;; Warps (warpX, warpY, destMapId, destX, destY)
+
+  ;; Spring Tavern
+36-37,104,332,3-4,12
+  ;; Pepper Tavern (Left/Right)
+43-44,104,361,3-4,12
+46-47,104,361,21-22,12
+  ;; Yunsil Tavern (Left/Right)
+57-58,135,362,3-4,12
+62-63,135,362,21-22,12
+
+  ;; Rogue Maso
+21-22,88,343,8-9,22
+  ;; Warrior Yebaek
+26-27,25,341,8-9,22
+
+  ;; Elendhirin Clan
+32-33,45,3990,15-16,28
+  ;; Phoenix Clan Garden
+41-42,143,3940,28-29,98
+  ;; SanSin Garden
+19-20,140,5040,15-16,18
+
+  ;; JadeSpear
+55-56,121,351,5-6,10
+  ;; Ogi Butcher
+38-39,128,334,5-6,10
+  ;; Bagai Shop
+29-30,142,363,5-6,10
+  ;; Chi Seams
+18-19,126,336,4-5,10
+  ;; Blossom Seams
+19-20,118,335,5-6,9
+  ;; Dok Smith
+18-19,102,333,5-6,9
+  ;; Buya Rat Cave (Dirt Cave)
+15-16,77,370,10,18
+  ;; Haunted House (Old Shanty)
+9,65,450,7,30
+  ;; Felis Shaman
+29-30,56,338,5-6,8
+
+  ;; Imperial Runway Foyer
+52-54,24,489,16-18,15
+
+  ;; Buya Gathering
+70-75,0,1012,8-11,17-18
+  ;; Buya Valley
+0,88-91,1001
+
+  ;; Sute's Cave
+;; 103-104,22,????,??,??

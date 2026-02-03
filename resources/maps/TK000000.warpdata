@@ -1,0 +1,89 @@
+;; Warps (warpX, warpY, destMapId, destX, destY)
+  ;; The Ultimate Gauntlet
+    84-85,203,615,13-14,18
+  ;; Baegi Shop
+    60-61,206,29,5-6,10
+  ;; Rogue Maro (Rogue guild)
+    21-22,186,15,8-9,22
+  ;; Sunset Weaver
+    76-77,186,15,5-6,18
+  ;; Lotus Chapel
+    152-153,188,10,8-10,14
+  ;; Enigma Clan Garden
+    137-138,203,3950,14-15,18
+  ;; Scholar's den
+    165,200-201,8300,14,12-13
+  ;; Sun Moon Clan Garden
+    176-177,163,3920,6-7,18
+  ;; Baegil shop
+    196-197,199,28,5-6,10
+  ;; Poet Jinsun (Poet guild)
+    184-185,182,17,8-9,21
+  ;; South Kugnae Gate to Wilderness Valley
+    108-111,219,2210,4-7,1
+  ;; Malgalod
+    128-129,219,27800,148-150,4
+  ;; Kugnae Rabbit Cave
+    195-196,138,80,1,3-4
+  ;; Dawn Shaman
+    197-198,92,9,5-6,7
+  ;; East Kugnae Gate to Dae Shore
+    219,106-109,1004,42-45,62
+  ;; Kugnae Salon
+    167-168,124,23,5-6,10
+  ;; Tao Te Ching
+    126-127,168,3540,15,28
+  ;; Stoney Goh
+    121-122,168,20,6-7,12
+  ;; Cry Seams (south tailor)
+    81-82,167,6,4-5,10
+  ;; Cuti Seams (north tailor)
+    82-83,159,5,5-6,10
+  ;; Ironheart's Home
+    87-88,146,36,5-6,10
+  ;; Walsuk Tavern
+    59-60,149,2,21-22,12
+  ;; Walsuk Tavern
+    56-57,149,2,3-4,12
+  ;; Bamboo Tavern
+    47-48,149,37,3-4,12
+  ;; Ginger Tavern
+    52-53,159,38,21-23,12
+  ;; Ginger Tavern
+    49-50,159,38,2-5,12
+  ;; Kugnae Market
+    65,160,4501,39-40,78
+  ;; Suni Butcher
+    40-41,130,43,5-6,10
+  ;; Beard Smith
+    59-60,121,3,5-6,9
+  ;; Kugnae Rat Cave
+    47-48,112,50,10,18
+  ;; Dusk Shaman
+    42-43,92,8,5-6,7
+  ;; Kugnae Fox Cave
+    19-20,162,70,12-13,28
+  ;; Kugnae West Gate to ATG
+    0,106-109,32098,13,2-6
+  ;; Kugnae Haunted House
+    33-36,62,121,5-9,30
+  ;; Warrior Tabaek (Warrior Guild)
+    48-49,37,11,8-9,22
+  ;; Baek Shop
+    17-18,12,30,5-6,10
+  ;; Redcap Messenger
+    94-95,47,7,5-6,10
+  ;; Kugnae spider cave
+    79-80,33,90,2,1
+  ;; Yuri's seamstress
+    86-89,80,4539,13-16,28
+  ;; Kugnae Library (Librarian Pond)
+    89-90,112,3400,7-8,14
+  ;; Kugnae Palace
+    108-111,92,4504,13-16,27
+  ;; Kugnae Theater
+    130-131,110,4504,13-15,28
+  ;; Yuri's flower garden
+    136,91-92,4504,11-14,7
+  ;; Yuri's flower garden
+    136,91-92,4504,11-14,7
